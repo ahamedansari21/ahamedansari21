@@ -9,7 +9,12 @@
 </a>
 
 <br/>
-
+<center>
+  <img src="
+    width="190"
+  />
+  
+</center>
 ![Profile Views](https://komarev.com/ghpvc/?username=AhamedAnsariS&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahamed%20Ansari%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-AhamedAnsariS-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AhamedAnsariS/)
