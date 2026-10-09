@@ -7,14 +7,14 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahamed+Ansari+S;Final-Year+IT+Student+%40+VSB+Engineering+College;Java+%7C+Python+%7C+Spring+Boot+%7C+React;I+build+scalable%2C+data-driven+web+apps+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-
-<br/>
-<center>
+<div align="center">
   <img src="https://github.com/ahamedansari21/ahamedansari21/blob/main/professional%20photo%201.png"
     width="190"
   />
   
-</center>
+</div>
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=AhamedAnsariS&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahamed%20Ansari%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-AhamedAnsariS-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AhamedAnsariS/)
